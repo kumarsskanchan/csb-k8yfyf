@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://kumarsskanchan.github.io/csb-k8yfyf/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kumarsskanchan.github.io/csb-k8yfyf/static/js/main.d31d8284.chunk.js",
+    "main.js.map": "https://kumarsskanchan.github.io/csb-k8yfyf/static/js/main.d31d8284.chunk.js.map",
+    "runtime-main.js": "https://kumarsskanchan.github.io/csb-k8yfyf/static/js/runtime-main.7d447e47.js",
+    "runtime-main.js.map": "https://kumarsskanchan.github.io/csb-k8yfyf/static/js/runtime-main.7d447e47.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://kumarsskanchan.github.io/csb-k8yfyf/static/css/2.cbedb215.chunk.css",
+    "static/js/2.1c8adc56.chunk.js": "https://kumarsskanchan.github.io/csb-k8yfyf/static/js/2.1c8adc56.chunk.js",
+    "static/js/2.1c8adc56.chunk.js.map": "https://kumarsskanchan.github.io/csb-k8yfyf/static/js/2.1c8adc56.chunk.js.map",
+    "index.html": "https://kumarsskanchan.github.io/csb-k8yfyf/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://kumarsskanchan.github.io/csb-k8yfyf/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kumarsskanchan.github.io/csb-k8yfyf/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.1c8adc56.chunk.js.LICENSE.txt": "https://kumarsskanchan.github.io/csb-k8yfyf/static/js/2.1c8adc56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d447e47.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.1c8adc56.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d31d8284.chunk.js"
+  ]
+}
